@@ -49,3 +49,11 @@ To setup environment variables correctly for the server, please create a .env fi
 ## Internet
 
 It's perfectly fine to use the internet. The use of ChatGPT is also fine as long as it is used solely for technical questions and not for generating your code.
+
+## Getting Started
+
+Run the following to clone this repo
+
+```
+git clone https://github.com/brbmeyer/full-stack.git
+```
